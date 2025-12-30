@@ -1,0 +1,184 @@
+
+
+
+
+INSERT INTO products (ProductName, Category, Price, Quantity, Description) VALUES
+('AMD Ryzen 5 5600X', 'Processor', 49500, 10, 'High-performance processor suitable for gaming and professional applications.'),
+('AMD Ryzen 5 5500', 'Processor', 33000, 15, 'Reliable processor for everyday computing tasks.'),
+('Intel Core i5-10400', 'Processor', 46500, 20, 'Efficient processor for multitasking and productivity.'),
+('Intel Core i5-13500', 'Processor', 100000, 5, 'High-speed processor ideal for demanding applications.'),
+('Intel Core i5-13400F', 'Processor', 73500, 8, 'Cost-effective processor offering solid performance.'),
+('Intel Core i7-13700F', 'Processor', 126000, 3, 'Advanced processor for high-end computing needs.'),
+('AMD Ryzen 9 7950X', 'Processor', 186500, 2, 'Top-tier processor for intensive computing tasks.'),
+('AMD Ryzen 9 7900X', 'Processor', 139000, 4, 'High-performance processor suitable for professionals.'),
+('AMD Ryzen 7 7700X', 'Processor', 112500, 6, 'Reliable processor for gaming and multitasking.'),
+('AMD Ryzen 5 7600X', 'Processor', 72000, 10, 'Efficient processor for everyday use.'),
+('AMD Ryzen 7 5700X', 'Processor', 66000, 5, 'Balanced processor for performance and value.'),
+('Intel Core i3-13100', 'Processor', 47500, 15, 'Budget-friendly processor for basic computing tasks.'),
+('AMD Ryzen 7 8700G', 'Processor', 117000, 3, 'High-performance processor with integrated graphics.'),
+('Intel Core i5-11400', 'Processor', 50000, 8, 'Reliable processor for daily computing needs.'),
+('Intel Core i3-10105', 'Processor', 36000, 10, 'Affordable processor suitable for basic applications.'),
+('Intel Core i5-10400F', 'Processor', 35000, 12, 'Cost-effective processor offering decent performance.'),
+('AMD Ryzen 9 5950X', 'Processor', 235000, 2, 'High-end processor for demanding workloads.'),
+('Intel Core i3-10100F', 'Processor', 32900, 15, 'Entry-level processor for simple tasks.'),
+('Intel Core i3-12100', 'Processor', 52500, 8, 'Mid-range processor balancing performance and cost.'),
+('Intel Core i5-11400', 'Processor', 74900, 5, 'Enhanced processor for multitasking.'),
+('Intel Core i5-12400', 'Processor', 70000, 10, 'Reliable processor for everyday computing.'),
+('AMD Ryzen 9 7950X3D', 'Processor', 196000, 3, 'Advanced processor with 3D V-Cache technology.'),
+('Intel Core i9-11900K', 'Processor', 182800, 2, 'High-end processor for enthusiasts.'),
+('Intel Core i9-11900KF', 'Processor', 133800, 4, 'Overclockable processor for maximum performance.'),
+('Intel Core i9-14900K', 'Processor', 160000, 6, 'Latest generation processor with high clock speeds.'),
+('Intel Core i7-14700K', 'Processor', 123500, 8, 'Efficient processor for gaming and productivity.'),
+('AMD Ryzen 5 5600X', 'Processor', 48000, 10, 'Reliable processor for daily tasks.'),
+('AMD Ryzen 5 5500', 'Processor', 33000, 15, 'Budget-friendly processor for basic computing.'),
+('Intel Core i5-10400', 'Processor', 46500, 20, 'Efficient processor for multitasking.'),
+('Intel Core i5-13500', 'Processor', 100000, 5, 'High-speed processor for demanding applications.');
+
+
+('Corsair Vengeance LPX 16GB RAM', 'RAM', 15000, 10, 'High-performance 16GB RAM for gaming and multitasking.'),
+('Kingston HyperX Fury 16GB RAM', 'RAM', 14000, 10, 'Reliable and fast 16GB RAM for smooth system performance.'),
+('G.Skill Ripjaws V 16GB RAM', 'RAM', 16000, 10, 'Efficient and durable 16GB RAM with great speeds.'),
+('Crucial Ballistix 16GB RAM', 'RAM', 14500, 10, 'High-quality 16GB RAM designed for performance.'),
+('ADATA XPG Z1 16GB RAM', 'RAM', 15500, 10, 'Gaming RAM with low latency for fast performance.'),
+('Team T-Force Vulcan Z 16GB RAM', 'RAM', 13500, 10, 'Great performance RAM with a sleek design.'),
+('Patriot Viper Steel 16GB RAM', 'RAM', 15000, 10, 'Reliable performance RAM for gaming and heavy workloads.'),
+('HyperX Predator 16GB RAM', 'RAM', 17000, 10, 'High-end RAM with extreme speeds for overclocking.'),
+('Corsair Dominator Platinum 16GB RAM', 'RAM', 18000, 10, 'Premium 16GB RAM for professional users.'),
+('Crucial Elite 16GB RAM', 'RAM', 12500, 10, 'Affordable yet fast 16GB RAM for everyday tasks.'),
+
+
+('MSI MAG B550 TOMAHAWK Motherboard', 'Motherboard', 28000, 10, 'High-performance B550 motherboard with great build quality.'),
+('ASUS ROG Strix Z490-E Motherboard', 'Motherboard', 38000, 10, 'Premium Z490 motherboard with top-tier features.'),
+('Gigabyte AORUS Z590 Pro Motherboard', 'Motherboard', 42000, 10, 'Powerful Z590 motherboard for Intel 10th/11th Gen processors.'),
+('ASRock B450M Steel Legend Motherboard', 'Motherboard', 22000, 10, 'Reliable B450 motherboard for AMD Ryzen processors.'),
+('MSI MPG Z590 GAMING EDGE WIFI Motherboard', 'Motherboard', 38000, 10, 'High-end motherboard with Wi-Fi and advanced features.'),
+('ASUS TUF Gaming B550-PLUS Motherboard', 'Motherboard', 27000, 10, 'Durable motherboard for AMD Ryzen 5000 series.'),
+('Gigabyte B450 AORUS M Motherboard', 'Motherboard', 19000, 10, 'Affordable and reliable motherboard for AMD Ryzen processors.'),
+('Gigabyte Z390 AORUS Ultra Motherboard', 'Motherboard', 35000, 10, 'High-end Z390 motherboard for Intel 9th/10th Gen processors.'),
+('MSI Z490-A PRO Motherboard', 'Motherboard', 30000, 10, 'Budget-friendly motherboard for Intel 10th Gen CPUs.'),
+('ASRock B560M Pro4 Motherboard', 'Motherboard', 25000, 10, 'Solid B560 motherboard for Intel 10th/11th Gen processors.'),
+
+
+('Samsung 970 EVO 500GB SSD', 'SSD', 15000, 5, 'High-performance NVMe SSD for fast data transfer and boot speeds.'),
+('Western Digital WD Blue 500GB SSD', 'SSD', 10000, 5, 'Affordable and reliable 500GB SSD for fast performance.'),
+('Crucial MX500 500GB SSD', 'SSD', 12000, 5, 'Solid performance SSD with good read and write speeds.'),
+('Kingston A2000 500GB SSD', 'SSD', 11000, 5, 'Budget-friendly SSD with excellent performance for everyday use.'),
+('ADATA XPG SX8200 Pro 500GB SSD', 'SSD', 13000, 5, 'High-speed NVMe SSD designed for gaming and professional use.'),
+
+
+('Corsair RM750x 750W Power Supply', 'Power Supply', 23000, 5, 'Reliable 750W power supply with modular cables for a clean build.'),
+('EVGA SuperNOVA 650 G5 Power Supply', 'Power Supply', 19000, 5, 'Efficient 650W power supply with 80+ Gold certification.'),
+('Seasonic Focus GX-750 750W Power Supply', 'Power Supply', 22000, 5, '750W power supply with 80+ Gold certification for high performance.'),
+('Cooler Master MWE Gold 650W Power Supply', 'Power Supply', 17000, 5, 'Affordable 650W power supply with 80+ Gold efficiency.'),
+('Antec Earthwatts Gold Pro 650W Power Supply', 'Power Supply', 16000, 5, 'Reliable and efficient 650W power supply with 80+ Gold rating.'),
+
+
+('Cooler Master MasterBox Q300L Gaming Case', 'Gaming Case', 11000, 10, 'Compact and budget-friendly gaming case with great airflow.'),
+('NZXT H510 Mid Tower Gaming Case', 'Gaming Case', 12000, 10, 'Sleek and modern mid-tower gaming case with excellent cable management.'),
+('Corsair iCUE 4000X RGB Gaming Case', 'Gaming Case', 15000, 10, 'Mid-tower gaming case with RGB fans and ample space for components.'),
+('Phanteks Eclipse P360A Gaming Case', 'Gaming Case', 14000, 10, 'Affordable gaming case with excellent airflow and easy build process.'),
+('Fractal Design Meshify C Gaming Case', 'Gaming Case', 13500, 10, 'High-performance gaming case with mesh front for superior airflow.'),
+('Cooler Master MasterBox TD500 Mesh Gaming Case', 'Gaming Case', 13000, 10, 'Stylish gaming case with tempered glass and airflow optimization.'),
+('Thermaltake V200 RGB Gaming Case', 'Gaming Case', 11000, 10, 'Budget-friendly gaming case with RGB lighting and good airflow.'),
+('Corsair Carbide Series 275R Gaming Case', 'Gaming Case', 12500, 10, 'Sleek mid-tower gaming case with clean design and plenty of space.'),
+('Lian Li PC-O11 Dynamic Gaming Case', 'Gaming Case', 22000, 10, 'Premium gaming case with excellent airflow and customizable design.'),
+('Antec DF500 RGB Gaming Case', 'Gaming Case', 12000, 10, 'Affordable gaming case with RGB lighting and good build quality.');
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+INSERT INTO products (ProductName, Category, Price, Quantity, Warranty, Description) VALUES
+
+-- 🧠 Processors (5 AMD + 5 Intel)
+('AMD Ryzen 5 5600X', 'Processor', 49500, 10, '3 Years', 'High-performance processor suitable for gaming and professional applications.'),
+('AMD Ryzen 5 5500', 'Processor', 33000, 15, '3 Years', 'Reliable processor for everyday computing tasks.'),
+('AMD Ryzen 7 7700X', 'Processor', 112500, 6, '3 Years', 'Reliable processor for gaming and multitasking.'),
+('AMD Ryzen 9 7900X', 'Processor', 139000, 4, '3 Years', 'High-performance processor suitable for professionals.'),
+('AMD Ryzen 9 7950X', 'Processor', 186500, 2, '3 Years', 'Top-tier processor for intensive computing tasks.'),
+('Intel Core i5-10400', 'Processor', 46500, 20, '3 Years', 'Efficient processor for multitasking and productivity.'),
+('Intel Core i5-13500', 'Processor', 100000, 5, '3 Years', 'High-speed processor ideal for demanding applications.'),
+('Intel Core i7-13700F', 'Processor', 126000, 3, '3 Years', 'Advanced processor for high-end computing needs.'),
+('Intel Core i9-11900K', 'Processor', 182800, 2, '3 Years', 'High-end processor for enthusiasts.'),
+('Intel Core i5-12400', 'Processor', 70000, 10, '3 Years', 'Reliable processor for everyday computing.'),
+
+-- 🧩 Motherboards (10)
+('MSI MAG B550 TOMAHAWK', 'Motherboard', 28000, 10, '3 Years', 'High-performance B550 motherboard with great build quality.'),
+('ASUS ROG Strix Z490-E', 'Motherboard', 38000, 10, '3 Years', 'Premium Z490 motherboard with top-tier features.'),
+('Gigabyte AORUS Z590 Pro', 'Motherboard', 42000, 10, '3 Years', 'Powerful Z590 motherboard for Intel 10th/11th Gen processors.'),
+('ASRock B450M Steel Legend', 'Motherboard', 22000, 10, '3 Years', 'Reliable B450 motherboard for AMD Ryzen processors.'),
+('MSI MPG Z590 GAMING EDGE WIFI', 'Motherboard', 38000, 10, '3 Years', 'High-end motherboard with Wi-Fi and advanced features.'),
+('ASUS TUF Gaming B550-PLUS', 'Motherboard', 27000, 10, '3 Years', 'Durable motherboard for AMD Ryzen 5000 series.'),
+('Gigabyte B450 AORUS M', 'Motherboard', 19000, 10, '3 Years', 'Affordable and reliable motherboard for AMD Ryzen processors.'),
+('Gigabyte Z390 AORUS Ultra', 'Motherboard', 35000, 10, '3 Years', 'High-end Z390 motherboard for Intel 9th/10th Gen processors.'),
+('MSI Z490-A PRO', 'Motherboard', 30000, 10, '3 Years', 'Budget-friendly motherboard for Intel 10th Gen CPUs.'),
+('ASRock B560M Pro4', 'Motherboard', 25000, 10, '3 Years', 'Solid B560 motherboard for Intel 10th/11th Gen processors.'),
+
+-- 🧠 RAM (10)
+('Corsair Vengeance LPX 16GB', 'RAM', 15000, 10, '2 Years', 'High-performance 16GB RAM for gaming and multitasking.'),
+('Kingston HyperX Fury 16GB', 'RAM', 14000, 10, '2 Years', 'Reliable and fast 16GB RAM for smooth system performance.'),
+('G.Skill Ripjaws V 16GB', 'RAM', 16000, 10, '2 Years', 'Efficient and durable 16GB RAM with great speeds.'),
+('Crucial Ballistix 16GB', 'RAM', 14500, 10, '2 Years', 'High-quality 16GB RAM designed for performance.'),
+('ADATA XPG Z1 16GB', 'RAM', 15500, 10, '2 Years', 'Gaming RAM with low latency for fast performance.'),
+('Team T-Force Vulcan Z 16GB', 'RAM', 13500, 10, '2 Years', 'Great performance RAM with a sleek design.'),
+('Patriot Viper Steel 16GB', 'RAM', 15000, 10, '2 Years', 'Reliable performance RAM for gaming and heavy workloads.'),
+('HyperX Predator 16GB', 'RAM', 17000, 10, '2 Years', 'High-end RAM with extreme speeds for overclocking.'),
+('Corsair Dominator Platinum 16GB', 'RAM', 18000, 10, '2 Years', 'Premium 16GB RAM for professional users.'),
+('Crucial Elite 16GB', 'RAM', 12500, 10, '2 Years', 'Affordable yet fast 16GB RAM for everyday tasks.'),
+
+-- 💾 SSDs (6)
+('Samsung 970 EVO 500GB', 'SSD', 15000, 5, '3 Years', 'High-performance NVMe SSD for fast data transfer and boot speeds.'),
+('WD Blue 500GB', 'SSD', 10000, 5, '3 Years', 'Affordable and reliable 500GB SSD for fast performance.'),
+('Crucial MX500 500GB', 'SSD', 12000, 5, '3 Years', 'Solid performance SSD with good read and write speeds.'),
+('Kingston A2000 500GB', 'SSD', 11000, 5, '3 Years', 'Budget-friendly SSD with excellent performance for everyday use.'),
+('ADATA XPG SX8200 Pro 500GB', 'SSD', 13000, 5, '3 Years', 'High-speed NVMe SSD designed for gaming and professional use.'),
+('Samsung 980 PRO 1TB', 'SSD', 22000, 5, '3 Years', 'Top-tier NVMe SSD with blazing-fast speeds.'),
+
+-- 🖥️ Gaming Cases (8)
+('Cooler Master Q300L', 'Gaming Case', 11000, 10, '1 Year', 'Compact and budget-friendly gaming case with great airflow.'),
+('NZXT H510', 'Gaming Case', 12000, 10, '1 Year', 'Sleek and modern mid-tower gaming case with excellent cable management.'),
+('Corsair iCUE 4000X RGB', 'Gaming Case', 15000, 10, '1 Year', 'Mid-tower gaming case with RGB fans and ample space for components.'),
+('Phanteks Eclipse P360A', 'Gaming Case', 14000, 10, '1 Year', 'Affordable gaming case with excellent airflow and easy build process.'),
+('Fractal Meshify C', 'Gaming Case', 13500, 10, '1 Year', 'High-performance gaming case with mesh front for superior airflow.'),
+('MasterBox TD500 Mesh', 'Gaming Case', 13000, 10, '1 Year', 'Stylish gaming case with tempered glass and airflow optimization.'),
+('Thermaltake V200 RGB', 'Gaming Case', 11000, 10, '1 Year', 'Budget-friendly gaming case with RGB lighting and good airflow.'),
+('Corsair 275R', 'Gaming Case', 12500, 10, '1 Year', 'Sleek mid-tower gaming case with clean design and plenty of space.');
+
+-- ❄️ Cooling Fans (4)
+('Cooler Master SickleFlow 120mm RGB', 'Cooling Fan', 3500, 15, '1 Year', 'RGB cooling fan with optimized airflow for gaming PCs.'),
+('Corsair LL120 RGB Fan', 'Cooling Fan', 6500, 10, '1 Year', 'High-performance fan with lighting and quiet operation.'),
+('Noctua NF-A12x25 PWM', 'Cooling Fan', 7500, 10, '1 Year', 'Premium quiet fan with high airflow and long life.'),
+('ARCTIC F12 PWM Rev.2', 'Cooling Fan', 3200, 10, '1 Year', 'Affordable high-performance fan with PWM control.'),
+
+-- 🔌 Power Supply (8)
+('Corsair RM750x 750W', 'Power Supply', 23000, 5, '5 Years', 'Reliable 750W PSU with modular cables for a clean build.'),
+('EVGA SuperNOVA 650 G5', 'Power Supply', 19000, 5, '5 Years', 'Efficient 650W PSU with 80+ Gold certification.'),
+('Seasonic Focus GX-750', 'Power Supply', 22000, 5, '5 Years', '750W PSU with 80+ Gold certification for high performance.'),
+('Cooler Master MWE Gold 650W', 'Power Supply', 17000, 5, '5 Years', 'Affordable 650W PSU with 80+ Gold efficiency.'),
+('Antec Earthwatts Gold Pro 650W', 'Power Supply', 16000, 5, '5 Years', 'Reliable and efficient 650W PSU with 80+ Gold rating.'),
+('Thermaltake Smart BX1 650W', 'Power Supply', 15500, 5, '3 Years', 'Budget-friendly PSU with basic protections.'),
+('Gigabyte P650B 650W', 'Power Supply', 15000, 5, '3 Years', 'Reliable PSU with 80+ Bronze certification.'),
+('XPG Core Reactor 750W', 'Power Supply', 18500, 5, '5 Years', 'Compact high-performance PSU with full modular cables.'),
+
+-- ⌨️ Keyboards (5)
+('Logitech G213 Prodigy', 'Keyboard', 9500, 12, '2 Years', 'Gaming keyboard with RGB lighting and tactile keys.'),
+('Redragon K552 Kumara', 'Keyboard', 8500, 10, '2 Years', 'Mechanical keyboard with compact layout and RGB.'),
+('Razer Cynosa V2', 'Keyboard', 10500, 8, '2 Years', 'Membrane gaming keyboard with customizable lighting.'),
+('SteelSeries Apex 3', 'Keyboard', 11000, 10, '2 Years', 'Water-resistant keyboard with whisper-quiet switches.'),
+('Corsair K55 RGB PRO', 'Keyboard', 11500, 10, '2 Years', 'Programmable macro keys and dynamic RGB lighting.'),
+
+-- 🖱️ Mouse (5)
+('Logitech G502 HERO', 'Mouse', 9500, 10, '2 Years', 'High-performance gaming mouse with customizable weights.'),
+('Razer DeathAdder V2', 'Mouse', 8900, 10, '2 Years', 'Ergonomic gaming mouse with precision sensor.'),
+('Redragon M602 RGB', 'Mouse', 4500, 10, '1 Year', 'Affordable RGB gaming mouse with adjustable DPI.'),
+('SteelSeries Rival 3', 'Mouse', 7900, 10, '2 Years', 'Lightweight mouse with TrueMove Core sensor.'),
+('Corsair Harpoon RGB Wireless', 'Mouse', 10500, 8, '2 Years', 'Wireless gaming mouse with lightweight design.'),
+
+-- 🎧 Headsets (6)
+('HyperX Cloud II', 'Headset', 18500, 8, '2 Years', 'Premium gaming headset with 7.1 surround sound.'),
+('Razer Kraken X', 'Headset', 9500, 10, '2 Years', 'Lightweight gaming headset with crystal-clear sound.'),
+('Corsair HS50 PRO', 'Headset', 11000, 10, '2 Years', 'Durable stereo headset with comfortable ear cushions.'),
+('Logitech G432', 'Headset', 12500, 8, '2 Years', 'Gaming headset with DTS:X 2.0 surround sound.'),
+('SteelSeries Arctis 1', 'Headset', 9900, 10, '2 Years', 'All-platform gaming headset with detachable mic.'),
+('Redragon H510 Zeus', 'Headset', 8500, 10, '1 Year', 'Affordable 7.1 surround sound headset with noise isolation.');
